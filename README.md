@@ -1,2 +1,2 @@
-# amarfolio---personal-porfolio-html-template
-Amarfolio - Personal Porfolio HTML Template
+# amarfolio-personal-porfolio-html-template
+Amarfolio Personal Porfolio HTML Template
